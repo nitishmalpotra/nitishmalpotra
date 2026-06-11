@@ -8,9 +8,11 @@ Before this: 7+ years across fintech and the public sector. All places where "sh
 
 I build things to either solve something for me or to understand them properly.
 
-**[eval-library](https://github.com/nitishmalpotra/eval-library)** — A citation-first library of AI eval patterns, built from Lenny's corpus. Copy a pattern, cite the source, ship a more reliable AI feature.
+**[eval-library](https://github.com/nitishmalpotra/eval-library)**: A citation-first library of AI eval patterns, built from Lenny's corpus. Copy a pattern, cite the source, ship a more reliable AI feature.
 
-**[LoadProgress](https://github.com/nitishmalpotra/LoadProgress)** — An iOS workout tracker built around progressive overload. I wanted the only number that matters — load over time — on the first screen. Every app I tried buried it under streaks and badges.
+**[study_abroad_platform](https://github.com/nitishmalpotra/study_abroad_platform)**: A full-stack AI platform for study-abroad applicants, with SOP review and admit prediction.
+
+**[LoadProgress](https://github.com/nitishmalpotra/LoadProgress)**: A workout tracker built around progressive overload. I wanted the only number that matters, load over time, on the first screen. Every app I tried buried it under streaks and badges.
 
 **[learn-adk](https://github.com/nitishmalpotra/learn-adk)** — Runnable notes from working through Google's Agent Development Kit. Public on purpose: notes I might be embarrassed about get written more carefully.
 
