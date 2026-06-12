@@ -1,4 +1,4 @@
-# Hi, I'm Nitish 👋
+# Hi, I'm Nitish Malpotra 👋
 
 I'm an AI Product Manager at Lloyds Banking Group, UK. My job is shipping agentic AI inside a bank - an environment where every clever demo eventually has to meet a risk committee. Turns out that's where the interesting problems live: not "can the model do it" but "can you prove it did it safely, every time, with the regulator reading over your shoulder."
 
