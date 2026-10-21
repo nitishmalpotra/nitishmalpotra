@@ -14,10 +14,8 @@ I build things to either solve something for me or to understand them properly.
 
 **[LoadProgress](https://github.com/nitishmalpotra/LoadProgress)**: A workout tracker built around progressive overload. I wanted the only number that matters, load over time, on the first screen. Every app I tried buried it under streaks and badges.
 
-**[learn-adk](https://github.com/nitishmalpotra/learn-adk)** — Runnable notes from working through Google's Agent Development Kit. Public on purpose: notes I might be embarrassed about get written more carefully.
-
 ## Elsewhere
 
-[nitishmalpotra.com](https://www.nitishmalpotra.com) · [LinkedIn](https://www.linkedin.com/in/nitishmalpotra/) · Leeds, UK
+[nitishmalpotra.com](https://www.nitishmalpotra.com) · [LinkedIn](https://www.linkedin.com/in/nitishmalpotra/) · Bangalore, IN
 
 🫂 Working on AI products or shipping agents? I'd genuinely like to compare notes. Reach out on LinkedIn.
